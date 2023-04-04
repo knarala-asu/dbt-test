@@ -4,8 +4,6 @@
   )
 }}
 
-,
-
 with customers as (
 
     select
