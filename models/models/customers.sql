@@ -4,12 +4,7 @@
   )
 }}
 
-with customers as (
-
-    select
-        id as customer_id
-
-),
+,
 
 with customers as (
 
